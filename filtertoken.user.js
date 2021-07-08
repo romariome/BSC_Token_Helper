@@ -11,8 +11,7 @@
 // @grant        none
 // ==/UserScript==
 
-
-
+var mintrasnferValue = 100000000;
 var tablevar= $('.table tbody tr');
 var length = tablevar.length;
 var val1=0;
@@ -20,7 +19,7 @@ var i=0;
 for(i=0;i<length;i++)
 {
      val1= $(tablevar[i].cells[7]).text().replace(/,/g,'');
-    if(val1<100000000)
+    if(val1<mintrasnferValue)
     {
         tablevar[i].remove(0);
         //alert(val1);
