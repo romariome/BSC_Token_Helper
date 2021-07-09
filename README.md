@@ -5,7 +5,7 @@ it helps to users for finding Tokens with some specified conditions (number of H
 -Tampermonkey Chrome Extension
 
 ## How To Use
-This [YouTube Video](http://Youtube.com) explains how to use the scripts
+This [YouTube Video](https://www.youtube.com/watch?v=z1hhO8-36OI) explains how to use the scripts
 
 ## Suggestion
 If those scripts was useful for you, I would be happy if you join the [BlockBank](https://blockbank.ai) community.
