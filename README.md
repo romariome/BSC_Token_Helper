@@ -20,3 +20,5 @@ website: https://blockbank.ai
 Telegram group : https://t.me/BlockBankApp
 
 Telegram announcement :https://t.me/blockbankann
+
+Twitter: https://twitter.com/blockbankapp
