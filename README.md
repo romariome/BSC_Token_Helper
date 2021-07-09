@@ -13,7 +13,7 @@ If those scripts was useful for you, I would be happy if you join the [BlockBank
 I am not a member of the project team and I am just a simple member of the community but I would like to help the community.
 
 
-note: BlockBank is AI-powered, traditional mobile banking experience with seamless crypto integration, with a very impersive view!
+note: BlockBank is AI-powered, traditional mobile banking experience with seamless crypto integration, with a very imperssive view!
 
 website: https://blockbank.ai
 
