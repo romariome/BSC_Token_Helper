@@ -19,7 +19,7 @@ var i=0;
 for(i=0;i<length;i++)
 {
      val1= $(tablevar[i].cells[7]).text().replace(/,/g,'');
-    if(val1<mintrasnferValue)
+    if(val1<mintrasnferValue  )
     {
         tablevar[i].remove(0);
         //alert(val1);
